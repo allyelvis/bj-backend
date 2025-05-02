@@ -15,7 +15,7 @@
     "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
-    "vite": "^4.5.13",
+    "vite": "^4.5.14",
     "@vitejs/plugin-react": "^1.1.1"
   },
   "author": "Ally Elvis Nzeyimana",
