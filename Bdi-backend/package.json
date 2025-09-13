@@ -9,13 +9,13 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "axios": "^0.30.0",
+    "axios": "^1.12.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
-    "vite": "^4.5.13",
+    "vite": "^5.4.20",
     "@vitejs/plugin-react": "^1.1.1"
   },
   "author": "Ally Elvis Nzeyimana",
